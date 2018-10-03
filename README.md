@@ -1,2 +1,2 @@
 # yellow-brick-road
-ProIntensive-Code Academy
+Completed Code Academy in Learning Environment
